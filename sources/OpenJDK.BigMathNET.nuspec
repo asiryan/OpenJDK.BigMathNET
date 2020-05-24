@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>OpenJDK.BigMathNET</id>
+    <version>1.0.1.1</version>
+    <title>OpenJDK.BigMathNET</title>
+    <authors>Valery Asiryan</authors>
+    <owners>Valery Asiryan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">GPL-3.0-only</license>
+    <projectUrl>https://github.com/asiryan/OpenJDK.BigMathNET</projectUrl>
+    <description>Advanced Java big math functions implementation using .NET Framework.</description>
+    <releaseNotes></releaseNotes>
+    <language>en-US</language>
+    <copyright>Valery Asiryan, Copyright 2020</copyright>
+    <tags>math bigdecimal bigcomplex bigrational arbitrary-precision</tags>
+    <dependencies>
+      <dependency id="IKVM"         version="8.1.5717" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\OpenJDK.BigMathNET.dll" target="lib\net40"></file>
+  </files>
+</package>
