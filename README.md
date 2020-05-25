@@ -1,4 +1,4 @@
-<p align="center"> Advanced Java big math functions implementation in C# using [**IKVM.NET**](http://www.ikvm.net/) </p>  
+<p align="center"> Advanced Java big math functions implementation in C# using [IKVM.NET](http://www.ikvm.net/) </p>  
 
 ## What is IKVM.NET?
 **IKVM.NET** is an implementation of Java for [**Mono**](https://www.mono-project.com/) and the [**.NET Framework**](https://dotnet.microsoft.com/). It includes the following components:
