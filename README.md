@@ -27,7 +27,7 @@ BigDecimal a = new BigDecimal("2.0");
 BigDecimal b = a.sqrt(context);
 Console.WriteLine(b);
 ```
-will produce the following output on the console:
+will produce the following output to the console:
 ```
 1.414213562373095048801688724209698078569671875376948073176679738
 ```
