@@ -8,5 +8,7 @@ Advanced Java big math functions implementation in C# using [**IKVM.NET**](http:
 * Tools that enable Java and .NET interoperability
 Read more about what you can do with [**IKVM.NET**](http://www.ikvm.net/uses.html).
 
-## Big math
+## BigMath
 **OpenJDK.BigMathNET** is a C# port of the Java [**library**](https://github.com/eobermuhlner/big-math) for advanced mathematical functions with arbitrary precision.
+### Installation
+Download from release [**folder**](https://github.com/asiryan/OpenJDK.BigMathNET/tree/master/release) and add **OpenJDK.BigMathNET.dll** to your project or use [**nuget**](https://www.nuget.org/packages/OpenJDK.BigMathNET/) package manager.
