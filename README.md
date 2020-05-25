@@ -22,11 +22,9 @@ using java.math;
 ```
 Usage example with calculating square root of 2
 ```c#
-Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 MathContext context = new MathContext(64);
 BigDecimal a = new BigDecimal("2.0");
-BigDecimal b = new BigDecimal("0.5");
-BigDecimal c = a.pow(b, context);
+BigDecimal b = a.sqrt(context);
 ```
 will produce the following output to the console:
 ```
