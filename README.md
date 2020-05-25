@@ -16,7 +16,20 @@ Read more about what you can do with [**IKVM.NET**](http://www.ikvm.net/uses.htm
 * BigRational  
 * BigComplex  
 
-To use it your own project download the library from release [**folder**](https://github.com/asiryan/OpenJDK.BigMathNET/tree/master/release) or use [**nuget**](https://www.nuget.org/packages/OpenJDK.BigMathNET/) package manager.
+To use it your own project download the library from release [**folder**](https://github.com/asiryan/OpenJDK.BigMathNET/tree/master/release) or use [**nuget**](https://www.nuget.org/packages/OpenJDK.BigMathNET/) package manager.  
+Usage example with calculating square root of 2
+```c#
+using java.math;
+...
+MathContext context = new MathContext(64);
+BigDecimal a = new BigDecimal("2.0");
+BigDecimal b = a.sqrt(context);
+Console.WriteLine(b);
+```
+will produce the following output on the console:
+```
+1.414213562373095048801688724209698078569671875376948073176679738
+```
 
 ## License
-[**GNU GPL v3.0**]
+**GNU GPL v3.0**
