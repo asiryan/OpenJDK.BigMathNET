@@ -1,6 +1,6 @@
 Advanced Java big math functions implementation in C# using [**IKVM.NET**](http://www.ikvm.net/)
 
-## IKVM.NET?
+## IKVM.NET
 **IKVM.NET** is an implementation of Java for [**Mono**](https://www.mono-project.com/) and the [**.NET Framework**](https://dotnet.microsoft.com/). It includes the following components:
 * A Java Virtual Machine implemented in .NET  
 * A .NET implementation of the Java class libraries  
@@ -8,7 +8,7 @@ Advanced Java big math functions implementation in C# using [**IKVM.NET**](http:
 
 Read more about what you can do with [**IKVM.NET**](http://www.ikvm.net/uses.html).
 
-## OpenJDK.BigMathNET?
+## OpenJDK.BigMathNET
 **OpenJDK.BigMathNET** is a C# port of the Java [**library**](https://github.com/eobermuhlner/big-math) for advanced mathematical functions with arbitrary precision depended on **IKVM.NET**. It implements the following components:
 * BigDecimalMath  
 * BigComplexMath  
