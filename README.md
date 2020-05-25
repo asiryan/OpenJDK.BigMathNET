@@ -6,6 +6,7 @@ Advanced Java big math functions implementation in C# using [**IKVM.NET**](http:
 * A Java Virtual Machine implemented in .NET  
 * A .NET implementation of the Java class libraries  
 * Tools that enable Java and .NET interoperability  
+
 Read more about what you can do with [**IKVM.NET**](http://www.ikvm.net/uses.html).
 
 ## What is OpenJDK.BigMathNET?
@@ -14,6 +15,7 @@ Read more about what you can do with [**IKVM.NET**](http://www.ikvm.net/uses.htm
 * BigComplexMath  
 * BigRational  
 * BigComplex  
+
 To use it your own project download the library from release [**folder**](https://github.com/asiryan/OpenJDK.BigMathNET/tree/master/release) or use [**nuget**](https://www.nuget.org/packages/OpenJDK.BigMathNET/) package manager.
 
 ## License
