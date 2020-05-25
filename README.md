@@ -16,7 +16,7 @@ Read more about what you can do with [**IKVM.NET**](http://www.ikvm.net/uses.htm
 * BigComplex  
 
 and extends **java.math** functionality in **IKVM.NET**.  
-To use it your own project download the library from release [**folder**](https://github.com/asiryan/OpenJDK.BigMathNET/tree/master/release) or use [**nuget**](https://www.nuget.org/packages/OpenJDK.BigMathNET/) package manager.  
+To use it in your own project download the library from release [**folder**](https://github.com/asiryan/OpenJDK.BigMathNET/tree/master/release) or use [**nuget**](https://www.nuget.org/packages/OpenJDK.BigMathNET/) package manager.  
 ```c#
 using java.math;
 ```
