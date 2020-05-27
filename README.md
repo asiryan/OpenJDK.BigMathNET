@@ -32,4 +32,4 @@ will produce the following output to the console:
 ```
 
 ## License
-**GNU GPL v3.0**
+**MIT**
